@@ -10,6 +10,10 @@ With time, USDT became one of the most important cryptocurrencies, with a [marke
 
 Today, many companies are launching their own stablecoins, with Ripple and even PayPal joining in. But despite growing competition, USDT maintains a dominant stablecoin market share of 65% at the time of writing.
 
+This analysis seeks to answer this critical question: Does Tether's USDT minting impact the price of Bitcoin? If so, in what manner and to what extent? 
+
+By employing an unbiased methodology and rigorously analyzing the data, we'll aim to draw conclusions based on empirical evidence rather than speculation.
+
 ## The repository includes the following components:
 - A Jupyter Notebook detailing the data retrieval and preprocessing steps.
 - A PDF presentation providing an in-depth interpretation of the results and final conclusions.
