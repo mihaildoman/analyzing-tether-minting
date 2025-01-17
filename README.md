@@ -9,7 +9,7 @@ With time, USDT became one of the most important cryptocurrencies, with a market
 
 Today, many companies are launching their own stablecoins, with Ripple and even PayPal joining in. But despite growing competition, USDT maintains a dominant stablecoin market share of 65% at the time of writing.
 
-This repository includes the following components:
+The repository includes the following components:
 - A Jupyter Notebook detailing the data retrieval and preprocessing steps.
 - A PDF presentation providing an in-depth interpretation of the results and final conclusions.
 - Two datasets: one with Bitcoin price data and the other with Tether mint data.
