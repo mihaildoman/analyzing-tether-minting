@@ -10,6 +10,11 @@ With time, USDT became one of the most important cryptocurrencies, with a [marke
 
 Today, many companies are launching their own stablecoins, with Ripple and even PayPal joining in. But despite growing competition, USDT maintains a dominant stablecoin market share of 65% at the time of writing.
 
+## The Tether USDT Minting Narrative
+Tether's USDT is the main trading pair for cryptocurrencies on a wide range of exchanges, including major platforms like Binance, ByBit and OKX. According to The Block, USDT-denominated trading pairs account for 65% of all trading volume, significantly surpassing the US Dollar, which only accounts for 15%.
+
+With such a dominant role, USDT is pivotal to cryptocurrency markets. Each time Tether mints another 1 billion USDT on-chain, traders and investors often interpret this as a bullish signal. This perception has become a very powerful narrative within the crypto trading community, so much so that Tether's CEO, Paolo Ardoino, frequently posts disclaimers to clarify the purpose of these minting events and manage market expectations. 
+
 This analysis seeks to answer this critical question: Does Tether's USDT minting impact the price of Bitcoin? If so, in what manner and to what extent? 
 
 By employing an unbiased methodology and rigorously analyzing the data, we'll aim to draw conclusions based on empirical evidence rather than speculation.
