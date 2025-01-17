@@ -4,7 +4,7 @@ Created in 2009, at the onset of the Great Financial Crisis, [Bitcoin](https://b
 
 In the early days of cryptocurrency markets, due to regulatory hurdles and skepticism from banks and financial institutions, fiat gateways were limited, so Bitcoin was the dominating trading pair on exchanges. But Bitcoin's price volatility made it challenging to trade other altcoins. This problem was addressed in 2014 with the introduction of the first stablecoin, [Tether's USDT](https://tether.to). 
 
-A [stablecoin](https://kraken.com/learn/what-are-stablecoins) is a cryptocurrency designed to maintain a 1:1 peg with a fiat currency (most commonly the U.S. dollar). Stablecoins gave traders and investors the possibility to trade cryptocurrencies without large fees and lengthy transfer processes. They also allowed for easier profit taking.
+A stablecoin is a cryptocurrency designed to maintain a 1:1 peg with a fiat currency (most commonly the U.S. dollar). Stablecoins gave traders and investors the possibility to trade cryptocurrencies without large fees and lengthy transfer processes. They also allowed for easier profit taking.
 
 With time, USDT became one of the most important cryptocurrencies, with a [marketcap of $130B](https://coinmarketcap.com/currencies/tether), making it the fourth largest coin in the space. Other stablecoin projects followed, including Circle's USDC, Binance's BUSD and Terraform Labs' ill-fated UST. 
 
